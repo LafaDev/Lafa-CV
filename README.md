@@ -13,14 +13,8 @@
   <a href="https://github.com/posquit0/Awesome-CV/actions/workflows/main.yml">
     <img alt="GitHub Actions" src="https://github.com/posquit0/Awesome-CV/actions/workflows/main.yml/badge.svg" />
   </a>
-  <a href="https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf">
+  <a href="https://github.com/LafaDev/Lafa-CV/raw/master/lafadev/resume.pdf"">
     <img alt="Example Resume" src="https://img.shields.io/badge/resume-pdf-green.svg" />
-  </a>
-  <a href="https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/cv.pdf">
-    <img alt="Example CV" src="https://img.shields.io/badge/cv-pdf-green.svg" />
-  </a>
-  <a href="https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf">
-    <img alt="Example Coverletter" src="https://img.shields.io/badge/coverletter-pdf-green.svg" />
   </a>
 </div>
 
@@ -35,16 +29,14 @@
 
 #### Résumé
 
-You can see [PDF](https://github.com/LafaDev/Lafa-CV/raw/master/lafadev/resume.pdf)
-
 | Portuguese | English  |
 |:---:|:---:|
 |[![Résumé](https://github.com/LafaDev/Lafa-CV/blob/master/resume.png)](https://github.com/LafaDev/Lafa-CV/blob/master/lafadev/resume.pdf)|[![Résumé](https://github.com/LafaDev/Lafa-CV/blob/master/resume.png)](https://github.com/LafaDev/Lafa-CV/blob/master/lafadev/resume.pdf)|
 
 
-## Credit
+## Credits
 
-[posquit0](https://github.com/posquit0) and [OJFord](https://github.com/OJFord) are the maintainers of the original [repository](https://github.com/posquit0/Awesome-CV)
+[posquit0](https://github.com/posquit0) and [OJFord](https://github.com/OJFord) are the maintainers of the original Awesome CV [repository](https://github.com/posquit0/Awesome-CV)
 
 [**LaTeX**](https://www.latex-project.org) is a fantastic typesetting program that a lot of people use these days, especially the math and computer science people in academia.
 
