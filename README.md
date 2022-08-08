@@ -7,11 +7,11 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/posquit0/Awesome-CV/actions/workflows/main.yml">
-    <img alt="GitHub Actions" src="https://github.com/posquit0/Awesome-CV/actions/workflows/main.yml/badge.svg" />
+  <a href="https://github.com/lafadev">
+    <img alt="" src="https://img.shields.io/github/followers/lafadev?style=for-the-badge" />
   </a>
   <a href="https://github.com/LafaDev/Lafa-CV/raw/master/lafadev/resume.pdf">
-    <img alt="Example Resume" src="https://img.shields.io/badge/resume-pdf-green.svg" />
+    <img alt="" src="https://img.shields.io/badge/resume-pdf-green.svg?style=for-the-badge" />
   </a>
 </div>
 
