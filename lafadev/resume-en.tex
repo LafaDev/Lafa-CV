@@ -1,0 +1,110 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+% Awesome CV LaTeX Template for CV/Resume
+%
+% This template has been downloaded from:
+% https://github.com/posquit0/Awesome-CV
+%
+% Author:
+% Claud D. Park <posquit0.bj@gmail.com>
+% http://www.posquit0.com
+%
+% Template license:
+% CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+%
+
+
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+% A4 paper size by default, use 'letterpaper' for US letter
+\documentclass[11pt, a4paper]{awesome-cv}
+
+% Configure page margins with geometry
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+
+% fonts location
+\fontdir[fonts/]
+
+% Color for highlights
+% Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
+%                 awesome-nephritis, awesome-concrete, awesome-darknight
+\colorlet{awesome}{awesome-darknight}
+% Uncomment if you would like to specify your own color
+% \definecolor{awesome}{HTML}{CA63A8}
+
+% Colors for text
+% Uncomment if you would like to specify your own color
+% \definecolor{darktext}{HTML}{414141}
+% \definecolor{text}{HTML}{333333}
+% \definecolor{graytext}{HTML}{5D5D5D}
+% \definecolor{lighttext}{HTML}{999999}
+% \definecolor{sectiondivider}{HTML}{5D5D5D}
+
+% Set false if you don't want to highlight section with awesome color
+\setbool{acvSectionColorHighlight}{false}
+
+% If you would like to change the social information separator from a pipe (|) to something else
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+
+%-------------------------------------------------------------------------------
+%	PERSONAL INFORMATION
+%	Comment any of the lines below if they are not required
+%-------------------------------------------------------------------------------
+% Available options: circle|rectangle,edge/noedge,left/right
+% \photo[rectangle,edge,right]{./examples/profile}
+\name{Lucas}{Flores}
+\position{Full Stack Developer{\enskip\cdotp\enskip}}
+\address{Rio de Janeiro, Brazil}
+
+%-------------------------------------------------------------------------------
+\begin{document}
+\newline
+%\newline
+% Print the header with above personal information
+% Give optional argument to change alignment(C: center, L: left, R: right)
+\makecvheader[L]
+%\begin{picture}(0,0)
+%    \put(440,-30){\includegraphics[width=7em]{seloCPA.jpg}}
+%\end{picture}
+%\linebreak
+\begin{wrapfigure}{l}{0.1\textwidth}
+  \begin{center}
+    \href{https://wa.me/message/7QZXUVB4LDJMH1}{\includegraphics[width=0.10\textwidth]{QRcode3.png}}
+  \end{center}
+\end{wrapfigure}
+\\
+\href{tel:21966637783}{\faPhone\acvHeaderIconSep\ (21) 96663-7783}
+\hspace{0.5cm}
+\href{mailto:lafa.dev@protonmail.com}{\faEnvelope\acvHeaderIconSep\ lafa.dev@protonmail.com}
+\hspace{0.5cm}
+\\
+\\
+\href{https://www.linkedin.com/in/lafa}{\faLinkedinSquare\acvHeaderIconSep\@ Lucas Flores}
+\hspace{1.1cm}
+\href{https://github.com/LafaDev}{\faGithubSquare\acvHeaderIconSep\ /LafaDev}
+\hspace{2cm}
+\\
+
+% Print the footer with 3 arguments(<left>, <center>, <right>)
+% Leave any of these blank if they are not needed
+
+\makecvfooter
+  {}
+  {\LaTeX~~~Résumé~~~·~~~Lucas Flores}
+  {}
+
+
+%-------------------------------------------------------------------------------
+%	CV/RESUME CONTENT
+%	Each section is imported separately, open each file in turn to modify content
+%-------------------------------------------------------------------------------
+\input{en/summary.tex}
+\input{en/technical.tex}
+\input{en/certifications.tex}
+\input{en/education.tex}
+
+
+%-------------------------------------------------------------------------------
+\end{document}
