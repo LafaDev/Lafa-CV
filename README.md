@@ -3,17 +3,14 @@
 </h1>
 
 <p align="center">
-  This is my resume made with LaTex, you can download it <a href="https://github.com/LafaDev/Lafa-CV/raw/master/lafadev/resume.pdf">here</a>
+  This is my resume made with LaTex, you can download it <a href="https://github.com/LafaDev/Lafa-CV/raw/master/lafadev/resume.pdf">here</a>.
 </p>
 
 <div align="center">
-  <a href="https://www.paypal.me/posquit0">
-    <img alt="Donate" src="https://img.shields.io/badge/Donate-PayPal-blue.svg" />
-  </a>
   <a href="https://github.com/posquit0/Awesome-CV/actions/workflows/main.yml">
     <img alt="GitHub Actions" src="https://github.com/posquit0/Awesome-CV/actions/workflows/main.yml/badge.svg" />
   </a>
-  <a href="https://github.com/LafaDev/Lafa-CV/raw/master/lafadev/resume.pdf"">
+  <a href="https://github.com/LafaDev/Lafa-CV/raw/master/lafadev/resume.pdf">
     <img alt="Example Resume" src="https://img.shields.io/badge/resume-pdf-green.svg" />
   </a>
 </div>
