@@ -13,18 +13,17 @@
   <a href="https://github.com/LafaDev/Lafa-CV/raw/master/lafadev/resume.pdf">
     <img alt="" src="https://img.shields.io/badge/resume-pdf-green.svg?style=for-the-badge" />
   </a>
+   <a href="https://www.linkedin.com/in/lafadev/">
+    <img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+   <a href="mailto:lafa.dev@protonmail.com">
+      <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+   </a>
 </div>
 
 <br />
 
-## What is Awesome CV?
-
-**Awesome CV** is LaTeX template for a **CV(Curriculum Vitae)**, **Résumé** or **Cover Letter** inspired by [Fancy CV](https://www.sharelatex.com/templates/cv-or-resume/fancy-cv). It is easy to customize your own template, especially since it is really written by a clean, semantic markup.
-
-
 ## Preview
-
-#### Résumé
 
 | Portuguese | English  |
 |:---:|:---:|
