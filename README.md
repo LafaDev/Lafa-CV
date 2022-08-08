@@ -4,6 +4,7 @@
 
 <p align="center">
   :brazil: Esse é meu currículo feito com LaTex, você pode baixa-lo <a href="https://github.com/LafaDev/Lafa-CV/raw/master/lafadev/resume.pdf">aqui</a>.
+  <br>
   :us: This is my resume made with LaTex, you can download it <a href="https://github.com/LafaDev/Lafa-CV/raw/master/lafadev/resume-en.pdf">here</a>.
 </p>
 
