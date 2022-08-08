@@ -21,3 +21,13 @@
 ## Mac OS X metadata files:
 *.DS_Store
 
+##
+QRcode.png
+QRcode2.png
+QRcode3.png
+fonts/
+new.tex
+seloCPA.jpg
+new*
+new2.cls.kbp
+new.cls.bkp
