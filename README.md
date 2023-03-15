@@ -29,7 +29,7 @@
 
 | :brazil: Portuguese | :us: English  |
 |:---:|:---:|
-|[![Résumé](https://raw.githubusercontent.com/LafaDev/Lafa-CV/master/resume.png)](https://github.com/LafaDev/Lafa-CV/blob/master/lafadev/resume.pdf)|[![Résumé](https://github.com/LafaDev/Lafa-CV/blob/master/resume-en.png)](https://github.com/LafaDev/Lafa-CV/blob/master/lafadev/resume-en.pdf)|
+|[![Résumé](https://github.com/LafaDev/Lafa-CV/blob/master/resume.png)](https://github.com/LafaDev/Lafa-CV/blob/master/lafadev/resume.pdf)|[![Résumé](https://github.com/LafaDev/Lafa-CV/blob/master/resume-en.png)](https://github.com/LafaDev/Lafa-CV/blob/master/lafadev/resume-en.pdf)|
 
 
 ## Credits
